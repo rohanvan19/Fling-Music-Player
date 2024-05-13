@@ -1,6 +1,6 @@
 # fling
 
-A new Flutter project.
+A personalized music player to play songs without any ads and interruptions.
 
 ## Getting Started
 
