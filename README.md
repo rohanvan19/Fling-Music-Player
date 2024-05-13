@@ -1,6 +1,11 @@
 # fling
 
-A personalized music player to play songs without any ads and interruptions.
+A personalized music player to play songs without any ads and interruptions. 
+
+![IMG_4048](https://github.com/rohanvan19/Fling-Music-Player/assets/86397039/06c4d541-7634-4c20-8282-dc26a3737ab5)
+
+![IMG_4047](https://github.com/rohanvan19/Fling-Music-Player/assets/86397039/bc38cbbb-5c7f-4a90-9135-dc069a4dfcc3)
+
 
 ## Getting Started
 
